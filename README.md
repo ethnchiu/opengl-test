@@ -1,5 +1,5 @@
 # OpenGL Test
-A basic C++ and OpenGL project template using CMake and Conan for dependency management.
+A basic C++ and OpenGL project using CMake and Conan for dependency management.
 
 ## Prerequisites
 - A C++ Compiler: (e.g., GCC, Clang, or MSVC)
